@@ -1,0 +1,30 @@
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.exe.config
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.exe
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.pdb
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.xml
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.Resources.resources
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.vbproj.GenerateResource.Cache
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.exe
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.xml
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.pdb
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.vbprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.About.resources
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.CustomerRecords.resources
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.SplashScreen1.resources
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.exe.config
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.exe
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.xml
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.pdb
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.exe
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.pdb
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\bin\Debug\Bates 9-11.xml
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.vbprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.About.resources
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.CustomerRecords.resources
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.Resources.resources
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates_9_11.SplashScreen1.resources
+C:\Users\Nathaniel\Desktop\Bates 9-11\Bates 9-11\obj\Debug\Bates 9-11.vbproj.GenerateResource.Cache
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Customer Record Maker\Bates 9-11\bin\Debug\Bates 9-11.exe.config
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Customer Record Maker\Bates 9-11\obj\Debug\Bates 9-11.exe
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Customer Record Maker\Bates 9-11\obj\Debug\Bates 9-11.xml
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Customer Record Maker\Bates 9-11\obj\Debug\Bates 9-11.pdb
