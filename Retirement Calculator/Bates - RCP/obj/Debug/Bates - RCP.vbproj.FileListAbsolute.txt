@@ -1,0 +1,30 @@
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.exe.config
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.exe
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.pdb
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.xml
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.RetirementCalculator.resources
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.Resources.resources
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.RetirementReport.resources
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.vbproj.GenerateResource.Cache
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.exe
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.xml
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.pdb
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.About.resources
+C:\Users\Nathaniel\documents\visual studio 2013\Projects\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.SplashScreen1.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.exe.config
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.exe
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.xml
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.pdb
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.exe
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.pdb
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Bates - RCP.xml
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.About.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.RetirementCalculator.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.Resources.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.RetirementReport.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates___RCP.SplashScreen1.resources
+C:\Users\Nathaniel\Desktop\Career Search\GitHub Programs\Bates - RCP\Bates - RCP\obj\Debug\Bates - RCP.vbproj.GenerateResource.Cache
